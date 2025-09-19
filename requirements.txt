@@ -1,0 +1,9 @@
+# No additional Python packages required
+# This project uses only Python standard library modules:
+# - os, subprocess, shutil, zipfile, logging, sys
+# - datetime, pathlib, tempfile
+
+# System requirements (to be installed via system package manager):
+# - mongodb-database-tools (provides mongodump and mongorestore)
+# - python3 (version 3.6 or higher)
+# - cron (for scheduling backups)
